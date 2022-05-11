@@ -1,0 +1,15 @@
+/* estilos para mapa */
+.ubicacion {
+    height: 490px;
+    border-radius: 25px;
+}
+.ubicacion iframe {
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+}
+/* deshabilitamos el zoom del mapa */
+.ubicacion .scrolloff {
+    pointer-events: none;
+    border-radius: 25px;
+}
