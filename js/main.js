@@ -1,0 +1,1 @@
+tweenMax.to(".fotomati",2,{left:600;})
